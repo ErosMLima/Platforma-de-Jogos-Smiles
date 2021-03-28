@@ -1,72 +1,104 @@
-<h1 align="center">
-    <img alt="dev.finances" title="dev.finances" src="./assets/logo.svg"/>
-</h1>
-
-<p align="center">
-  <a href="#tecnologies">Tecnologias</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>
-</p>
-
-<br>
-
-<p align="center">
-  <img alt="dev.finances" src="./.github/preview.PNG" width="100%">
-</p>
-
-##  Tecnologias usadas
-
-- [HTML](#)
-- [CSS](#)
-- [JavaScript](#)
-
-- [SVG/GSAP](#)
-- [Glassmorphism](#)
-- [Neomorphism](#)
-
-- [Assistente de Voz](#)
-- [Assistente de Libras](#)
+Esse é o projeto Smiles Go, em que o objetivo principal é o acúmulo de milhas através de atividades gamificadas como por exemplo assistindo vídeos e jogando e jogando jogos.
 
 
-## 💻 Acesse o site 
-
-Access the site through this link:
-**[Click Here](https://github.erosmlima.com/)**
 
 
-## 🚀 Projeto
-
-Perifa Acessa
+Live Hackathon Smiles - 1 milhão de milhas agora ao vivo com Mayk_Brito da Rocket 
 
 
-## ♻️ Recursos Adicionais 
-
-Acessibilidade por (Voz|Hand Talk) * precisa estar conectado na internet para acessar todos os recursos
-
-Fundo de tela animado (SVG/GSAP)
-
-Entradas e Saídas de Cursos e Vagas (Dinâmicas) com notificações por voz (Alexa/Watson)
-
-* This project is for the **[MaratON - Hackathon - Accenture](https://accenture.co.uk/)**, realized by **[@Accenture](https://github.com/Accenture)**.
+[Pergunta Respondida] O VR_AR vai revolucionar as demonstrações para aquecer o setor de viagens? 
 
 
-## 📚 Layout
 
-Você pode vizualizar nosso material e o layoutdo projeto por estes links:
-
-- [Layout](https://www.figma-Copy) 
-
-LembRemembering you need have a account of on [Figma](http://figma.com/) for have access.
+[\Pergunta Respondida/] Existem pacotes de viagens inclusivas em termos de acessibilidade?
 
 
-## ⚜️ Equipe
-
-ErosMLima
-Robson
-Leonardo
-Claudemir
-Gabriela
-Wendy
+[*Pergunta*] O AR pode ser usado durante a viagem para que o cliente possa escolher o que ele vai ver com o óculos olhando a janela? Trazendo uma nova experiência.
 
 
-<p align="center">Developed by ErosMLima² - e todo Grupo Ubuntu</p>
+
+[&Pergunta&] Algum avião da Smiles já foi hackeado? Existe algum relato para inovarmos na segurança? 
+
+https://www.youtube.com/watch?v=0hsALRTW8q8
+
+
+
+
+
+
+
+Olá Pessoal:
+
+Eu sou o⚡️Eros M.Lima
+
+=∆³ Tech Innovator |  Fullstack Dev.  | JavaScript |  Node  | Python  | SQL  | CyberSec |  Cloud  | Alexa & Chatbots |  VR_AR | Gamification |  Digital Accessibility  | Auditor  | Deep Researcher AI/ML | NPL
+
+Gosto de ideias de inovação em tecnologia.
+
+https://www.linkedin.com/in/%E2%9A%A1%EF%B8%8Feros-m-lima-57a405198/
+
+
+
+
+
+
+
+
+
+
+https://github.com/zain08816/Flightinator
+https://github.com/lucylow/farmernet
+https://opensea.io/accounts/farmernet
+
+
+ReDes neurais - Dino Game 
+
+
+
+
+
+
+
+##Procedimentos a serem demonstrados (Acessibilidade e Facilidade *parceiro Microsoft):
+
+
+1- Agendamentos por comandos de voz (*só configurar rapidamente com os nossos tutoriais por vídeos)
+
+Watson? 
+C-Agende meu voô.
+W-Seu destino de voô foi agendado.
+
+
+
+2- Busca por vídeos ou games por comandos de voz
+
+Watson?
+-Quero ganhar milhas jogando.
+W-Escolha entre os jogos:
+
+a-da Memória,
+b-Ganhando Milhas Jogando,
+c-Jogo da Véia ou 
+d-Pac Man Smiles?
+
+
+
+
+Link direto vercel: 
+Link do vídeo de apresentação: 
+
+
+
+Os games usam estratégias de Gameficação, Redes neaurais, AI e ML.
+
+
+
+##Time Smiles-go 
+
+**Eros**
+**Alexandre**
+**Robson**
+**Diego**
+**Carine**
+
+
